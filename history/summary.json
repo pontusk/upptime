@@ -27,17 +27,17 @@
     "url": "https://recipes.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
-    "status": "down",
-    "uptime": "91.93%",
-    "uptimeDay": "65.97%",
-    "uptimeWeek": "84.69%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "91.93%",
-    "time": 2003,
-    "timeDay": 5782,
-    "timeWeek": 4591,
-    "timeMonth": 2433,
-    "timeYear": 2003,
+    "status": "up",
+    "uptime": "91.85%",
+    "uptimeDay": "61.93%",
+    "uptimeWeek": "84.11%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "91.85%",
+    "time": 1982,
+    "timeDay": 4485,
+    "timeWeek": 4417,
+    "timeMonth": 2432,
+    "timeYear": 1982,
     "dailyMinutesDown": {
       "2026-05-03": 24,
       "2026-05-16": 1199,
@@ -54,7 +54,7 @@
       "2026-06-13": 278,
       "2026-06-14": 248,
       "2026-06-15": 524,
-      "2026-06-16": 412
+      "2026-06-16": 470
     }
   },
   {
@@ -62,17 +62,17 @@
     "url": "https://calibre.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
-    "status": "down",
-    "uptime": "76.53%",
-    "uptimeDay": "61.39%",
+    "status": "up",
+    "uptime": "76.46%",
+    "uptimeDay": "58.00%",
     "uptimeWeek": "22.57%",
-    "uptimeMonth": "68.07%",
-    "uptimeYear": "76.53%",
-    "time": 3581,
-    "timeDay": 10611,
-    "timeWeek": 4756,
-    "timeMonth": 3704,
-    "timeYear": 3581,
+    "uptimeMonth": "68.00%",
+    "uptimeYear": "76.46%",
+    "time": 3637,
+    "timeDay": 9120,
+    "timeWeek": 4887,
+    "timeMonth": 3787,
+    "timeYear": 3637,
     "dailyMinutesDown": {
       "2026-05-03": 24,
       "2026-05-16": 1199,
@@ -92,7 +92,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1293,
       "2026-06-15": 236,
-      "2026-06-16": 485
+      "2026-06-16": 543
     }
   },
   {
@@ -100,17 +100,17 @@
     "url": "https://sr-wiki.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
-    "status": "down",
-    "uptime": "92.55%",
+    "status": "up",
+    "uptime": "92.46%",
     "uptimeDay": "57.31%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "92.55%",
-    "time": 1515,
-    "timeDay": 7638,
-    "timeWeek": 3151,
-    "timeMonth": 1839,
-    "timeYear": 1515,
+    "uptimeWeek": "87.14%",
+    "uptimeMonth": "91.94%",
+    "uptimeYear": "92.46%",
+    "time": 1506,
+    "timeDay": 6280,
+    "timeWeek": 3055,
+    "timeMonth": 1842,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-05-03": 23,
       "2026-05-16": 1199,
@@ -125,7 +125,7 @@
       "2026-06-13": 240,
       "2026-06-14": 157,
       "2026-06-15": 326,
-      "2026-06-16": 480
+      "2026-06-16": 539
     }
   }
 ]
