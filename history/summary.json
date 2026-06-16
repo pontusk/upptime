@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
     "status": "up",
-    "uptime": "92.43%",
+    "uptime": "92.44%",
     "uptimeDay": "63.61%",
     "uptimeWeek": "88.78%",
-    "uptimeMonth": "89.53%",
-    "uptimeYear": "92.43%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "92.44%",
     "time": 2017,
     "timeDay": 9345,
     "timeWeek": 4760,
@@ -61,12 +61,12 @@
     "url": "https://calibre.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
-    "status": "up",
-    "uptime": "76.88%",
-    "uptimeDay": "83.63%",
-    "uptimeWeek": "16.42%",
-    "uptimeMonth": "66.65%",
-    "uptimeYear": "76.88%",
+    "status": "down",
+    "uptime": "76.90%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "17.20%",
+    "uptimeMonth": "66.83%",
+    "uptimeYear": "76.90%",
     "time": 3590,
     "timeDay": 17904,
     "timeWeek": 4961,
@@ -90,7 +90,8 @@
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1293,
-      "2026-06-15": 236
+      "2026-06-15": 236,
+      "2026-06-16": 2
     }
   },
   {
@@ -98,12 +99,12 @@
     "url": "https://sr-wiki.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
-    "status": "up",
-    "uptime": "93.16%",
+    "status": "down",
+    "uptime": "93.17%",
     "uptimeDay": "77.28%",
     "uptimeWeek": "92.48%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "93.16%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "93.17%",
     "time": 1539,
     "timeDay": 11573,
     "timeWeek": 3377,
@@ -122,7 +123,8 @@
       "2026-06-09": 36,
       "2026-06-13": 240,
       "2026-06-14": 157,
-      "2026-06-15": 326
+      "2026-06-15": 326,
+      "2026-06-16": 0
     }
   }
 ]
