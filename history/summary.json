@@ -27,17 +27,17 @@
     "url": "https://recipes.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
-    "status": "down",
-    "uptime": "91.86%",
-    "uptimeDay": "65.74%",
-    "uptimeWeek": "84.87%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "91.86%",
-    "time": 1982,
-    "timeDay": 5698,
-    "timeWeek": 4596,
-    "timeMonth": 2432,
-    "timeYear": 1982,
+    "status": "up",
+    "uptime": "91.81%",
+    "uptimeDay": "63.45%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "91.81%",
+    "time": 2156,
+    "timeDay": 7773,
+    "timeWeek": 5005,
+    "timeMonth": 2654,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2026-05-03": 24,
       "2026-05-16": 1199,
@@ -54,7 +54,7 @@
       "2026-06-13": 278,
       "2026-06-14": 248,
       "2026-06-15": 524,
-      "2026-06-16": 474
+      "2026-06-16": 507
     }
   },
   {
@@ -62,17 +62,17 @@
     "url": "https://calibre.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
-    "status": "down",
-    "uptime": "76.50%",
-    "uptimeDay": "57.86%",
-    "uptimeWeek": "23.75%",
-    "uptimeMonth": "68.00%",
-    "uptimeYear": "76.50%",
-    "time": 3637,
-    "timeDay": 9120,
-    "timeWeek": 4887,
-    "timeMonth": 3787,
-    "timeYear": 3637,
+    "status": "up",
+    "uptime": "76.46%",
+    "uptimeDay": "57.45%",
+    "uptimeWeek": "23.76%",
+    "uptimeMonth": "67.92%",
+    "uptimeYear": "76.46%",
+    "time": 3868,
+    "timeDay": 10889,
+    "timeWeek": 5614,
+    "timeMonth": 4102,
+    "timeYear": 3868,
     "dailyMinutesDown": {
       "2026-05-03": 24,
       "2026-05-16": 1199,
@@ -92,7 +92,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1293,
       "2026-06-15": 236,
-      "2026-06-16": 545
+      "2026-06-16": 579
     }
   },
   {
@@ -100,17 +100,17 @@
     "url": "https://sr-wiki.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
-    "status": "down",
-    "uptime": "92.48%",
-    "uptimeDay": "58.48%",
-    "uptimeWeek": "87.50%",
-    "uptimeMonth": "91.94%",
-    "uptimeYear": "92.48%",
-    "time": 1506,
-    "timeDay": 5682,
-    "timeWeek": 3171,
-    "timeMonth": 1842,
-    "timeYear": 1506,
+    "status": "up",
+    "uptime": "92.43%",
+    "uptimeDay": "57.88%",
+    "uptimeWeek": "87.15%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "92.43%",
+    "time": 1709,
+    "timeDay": 7608,
+    "timeWeek": 3677,
+    "timeMonth": 2106,
+    "timeYear": 1709,
     "dailyMinutesDown": {
       "2026-05-03": 23,
       "2026-05-16": 1199,
@@ -125,7 +125,7 @@
       "2026-06-13": 240,
       "2026-06-14": 157,
       "2026-06-15": 326,
-      "2026-06-16": 539
+      "2026-06-16": 574
     }
   }
 ]
