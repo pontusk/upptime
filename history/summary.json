@@ -63,17 +63,17 @@
     "url": "https://calibre.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
-    "status": "down",
-    "uptime": "76.65%",
-    "uptimeDay": "83.41%",
-    "uptimeWeek": "33.82%",
-    "uptimeMonth": "67.59%",
-    "uptimeYear": "76.65%",
-    "time": 4090,
-    "timeDay": 10199,
-    "timeWeek": 6333,
-    "timeMonth": 4419,
-    "timeYear": 4090,
+    "status": "up",
+    "uptime": "76.59%",
+    "uptimeDay": "79.72%",
+    "uptimeWeek": "33.83%",
+    "uptimeMonth": "67.47%",
+    "uptimeYear": "76.59%",
+    "time": 4077,
+    "timeDay": 9029,
+    "timeWeek": 6183,
+    "timeMonth": 4393,
+    "timeYear": 4077,
     "dailyMinutesDown": {
       "2026-05-03": 24,
       "2026-05-16": 1199,
@@ -94,7 +94,7 @@
       "2026-06-07": 1293,
       "2026-06-15": 236,
       "2026-06-16": 579,
-      "2026-06-17": 142
+      "2026-06-17": 196
     }
   },
   {
