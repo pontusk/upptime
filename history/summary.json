@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
     "status": "down",
-    "uptime": "91.52%",
-    "uptimeDay": "70.80%",
-    "uptimeWeek": "78.92%",
-    "uptimeMonth": "89.72%",
-    "uptimeYear": "91.52%",
+    "uptime": "91.45%",
+    "uptimeDay": "67.34%",
+    "uptimeWeek": "78.43%",
+    "uptimeMonth": "89.61%",
+    "uptimeYear": "91.45%",
     "time": 2419,
     "timeDay": 5587,
     "timeWeek": 4975,
@@ -57,7 +57,7 @@
       "2026-06-16": 507,
       "2026-06-17": 146,
       "2026-06-19": 419,
-      "2026-06-20": 2
+      "2026-06-20": 52
     }
   },
   {
@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
     "status": "down",
-    "uptime": "77.19%",
-    "uptimeDay": "77.60%",
+    "uptime": "77.14%",
+    "uptimeDay": "74.14%",
     "uptimeWeek": "62.07%",
-    "uptimeMonth": "66.74%",
-    "uptimeYear": "77.19%",
+    "uptimeMonth": "66.62%",
+    "uptimeYear": "77.14%",
     "time": 4474,
     "timeDay": 9465,
     "timeWeek": 7185,
@@ -98,7 +98,7 @@
       "2026-06-16": 579,
       "2026-06-17": 196,
       "2026-06-19": 320,
-      "2026-06-20": 2
+      "2026-06-20": 52
     }
   },
   {
@@ -107,11 +107,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
     "status": "down",
-    "uptime": "92.26%",
-    "uptimeDay": "73.96%",
-    "uptimeWeek": "82.68%",
-    "uptimeMonth": "90.84%",
-    "uptimeYear": "92.26%",
+    "uptime": "92.19%",
+    "uptimeDay": "70.49%",
+    "uptimeWeek": "82.19%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "92.19%",
     "time": 2357,
     "timeDay": 5420,
     "timeWeek": 4817,
@@ -133,7 +133,8 @@
       "2026-06-15": 326,
       "2026-06-16": 574,
       "2026-06-17": 76,
-      "2026-06-19": 374
+      "2026-06-19": 374,
+      "2026-06-20": 50
     }
   }
 ]
