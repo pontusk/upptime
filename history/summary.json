@@ -27,17 +27,17 @@
     "url": "https://recipes.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
-    "status": "down",
-    "uptime": "91.07%",
-    "uptimeDay": "53.06%",
-    "uptimeWeek": "75.29%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "91.07%",
-    "time": 2424,
-    "timeDay": 4746,
-    "timeWeek": 4732,
-    "timeMonth": 3040,
-    "timeYear": 2424,
+    "status": "up",
+    "uptime": "91.01%",
+    "uptimeDay": "49.78%",
+    "uptimeWeek": "74.82%",
+    "uptimeMonth": "88.78%",
+    "uptimeYear": "91.01%",
+    "time": 2585,
+    "timeDay": 6530,
+    "timeWeek": 5078,
+    "timeMonth": 3250,
+    "timeYear": 2585,
     "dailyMinutesDown": {
       "2026-05-03": 24,
       "2026-05-16": 1199,
@@ -57,7 +57,7 @@
       "2026-06-16": 507,
       "2026-06-17": 146,
       "2026-06-19": 419,
-      "2026-06-20": 369
+      "2026-06-20": 416
     }
   },
   {
@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
     "status": "up",
-    "uptime": "76.99%",
+    "uptime": "77.01%",
     "uptimeDay": "65.80%",
-    "uptimeWeek": "65.39%",
+    "uptimeWeek": "65.88%",
     "uptimeMonth": "66.10%",
-    "uptimeYear": "76.99%",
+    "uptimeYear": "77.01%",
     "time": 4718,
     "timeDay": 11056,
     "timeWeek": 7562,
@@ -107,11 +107,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
     "status": "down",
-    "uptime": "92.16%",
-    "uptimeDay": "73.04%",
-    "uptimeWeek": "81.49%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "92.16%",
+    "uptime": "92.09%",
+    "uptimeDay": "69.62%",
+    "uptimeWeek": "81.00%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "92.09%",
     "time": 2335,
     "timeDay": 5428,
     "timeWeek": 4676,
@@ -134,7 +134,7 @@
       "2026-06-16": 574,
       "2026-06-17": 76,
       "2026-06-19": 374,
-      "2026-06-20": 120
+      "2026-06-20": 169
     }
   }
 ]
