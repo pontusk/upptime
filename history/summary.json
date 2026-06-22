@@ -27,12 +27,12 @@
     "url": "https://recipes.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
-    "status": "up",
-    "uptime": "90.16%",
-    "uptimeDay": "55.54%",
-    "uptimeWeek": "71.78%",
+    "status": "down",
+    "uptime": "90.17%",
+    "uptimeDay": "55.79%",
+    "uptimeWeek": "71.79%",
     "uptimeMonth": "86.87%",
-    "uptimeYear": "90.16%",
+    "uptimeYear": "90.17%",
     "time": 3004,
     "timeDay": 5917,
     "timeWeek": 5923,
@@ -59,7 +59,7 @@
       "2026-06-19": 419,
       "2026-06-20": 552,
       "2026-06-21": 543,
-      "2026-06-22": 154
+      "2026-06-22": 156
     }
   },
   {
@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
     "status": "down",
-    "uptime": "76.59%",
-    "uptimeDay": "53.96%",
-    "uptimeWeek": "75.57%",
-    "uptimeMonth": "64.16%",
-    "uptimeYear": "76.59%",
+    "uptime": "76.50%",
+    "uptimeDay": "48.20%",
+    "uptimeWeek": "74.71%",
+    "uptimeMonth": "63.96%",
+    "uptimeYear": "76.50%",
     "time": 5134,
     "timeDay": 10377,
     "timeWeek": 8968,
@@ -102,7 +102,7 @@
       "2026-06-19": 320,
       "2026-06-20": 413,
       "2026-06-21": 585,
-      "2026-06-22": 134
+      "2026-06-22": 221
     }
   },
   {
@@ -110,17 +110,17 @@
     "url": "https://sr-wiki.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
-    "status": "down",
-    "uptime": "91.49%",
-    "uptimeDay": "70.87%",
-    "uptimeWeek": "78.68%",
-    "uptimeMonth": "89.01%",
-    "uptimeYear": "91.49%",
-    "time": 2939,
-    "timeDay": 7236,
-    "timeWeek": 6922,
-    "timeMonth": 3766,
-    "timeYear": 2939,
+    "status": "up",
+    "uptime": "91.38%",
+    "uptimeDay": "64.99%",
+    "uptimeWeek": "77.82%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "91.38%",
+    "time": 3033,
+    "timeDay": 7849,
+    "timeWeek": 7076,
+    "timeMonth": 3880,
+    "timeYear": 3033,
     "dailyMinutesDown": {
       "2026-05-03": 23,
       "2026-05-16": 1199,
@@ -140,7 +140,7 @@
       "2026-06-19": 374,
       "2026-06-20": 379,
       "2026-06-21": 346,
-      "2026-06-22": 73
+      "2026-06-22": 160
     }
   }
 ]
