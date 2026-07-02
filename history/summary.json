@@ -29,12 +29,12 @@
     "url": "https://recipes.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
-    "status": "up",
-    "uptime": "91.50%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "91.50%",
+    "status": "down",
+    "uptime": "91.58%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "89.94%",
+    "uptimeYear": "91.58%",
     "time": 2992,
     "timeDay": 3731,
     "timeWeek": 4097,
@@ -62,7 +62,8 @@
       "2026-06-20": 552,
       "2026-06-21": 543,
       "2026-06-22": 275,
-      "2026-07-01": 113
+      "2026-07-01": 113,
+      "2026-07-02": 4
     }
   },
   {
@@ -70,12 +71,12 @@
     "url": "https://calibre.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
-    "status": "up",
-    "uptime": "80.06%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "98.93%",
+    "status": "down",
+    "uptime": "80.25%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "67.02%",
-    "uptimeYear": "80.06%",
+    "uptimeYear": "80.25%",
     "time": 5254,
     "timeDay": 8541,
     "timeWeek": 7663,
@@ -106,7 +107,8 @@
       "2026-06-20": 413,
       "2026-06-21": 585,
       "2026-06-22": 340,
-      "2026-07-01": 108
+      "2026-07-01": 108,
+      "2026-07-02": 2
     }
   },
   {
@@ -114,12 +116,12 @@
     "url": "https://sr-wiki.junknet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
-    "status": "up",
-    "uptime": "92.66%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "98.98%",
+    "status": "down",
+    "uptime": "92.73%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "98.97%",
     "uptimeMonth": "92.13%",
-    "uptimeYear": "92.66%",
+    "uptimeYear": "92.73%",
     "time": 2969,
     "timeDay": 6160,
     "timeWeek": 3200,
@@ -145,7 +147,8 @@
       "2026-06-20": 379,
       "2026-06-21": 346,
       "2026-06-22": 160,
-      "2026-07-01": 103
+      "2026-07-01": 103,
+      "2026-07-02": 0
     }
   }
 ]
