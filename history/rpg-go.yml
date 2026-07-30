@@ -1,7 +1,7 @@
 url: https://rpg.illustrius.se
-status: up
-code: 200
-responseTime: 1384
-lastUpdated: 2026-07-29T23:20:31.380Z
+status: down
+code: 502
+responseTime: 437
+lastUpdated: 2026-07-30T06:34:58.149Z
 startTime: 2026-05-02T07:52:27.206Z
 generator: Upptime <https://github.com/upptime/upptime>
