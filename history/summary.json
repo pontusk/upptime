@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpg.illustrius.se.ico",
     "slug": "rpg-go",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "99.15%",
-    "time": 1886,
-    "timeDay": 1760,
-    "timeWeek": 1738,
-    "timeMonth": 2027,
-    "timeYear": 1886,
+    "uptimeYear": "99.16%",
+    "time": 1884,
+    "timeDay": 1706,
+    "timeWeek": 1689,
+    "timeMonth": 2018,
+    "timeYear": 1884,
     "dailyMinutesDown": {
       "2026-05-21": 108,
       "2026-06-06": 50,
@@ -33,14 +33,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipes.junknet.xyz.ico",
     "slug": "recipes",
     "status": "down",
-    "uptime": "93.35%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "93.96%",
-    "uptimeYear": "93.35%",
+    "uptime": "93.11%",
+    "uptimeDay": "71.23%",
+    "uptimeWeek": "86.52%",
+    "uptimeMonth": "93.04%",
+    "uptimeYear": "93.11%",
     "time": 2432,
-    "timeDay": 770,
-    "timeWeek": 695,
+    "timeDay": 0,
+    "timeWeek": 699,
     "timeMonth": 683,
     "timeYear": 2432,
     "dailyMinutesDown": {
@@ -76,7 +76,8 @@
       "2026-08-11": 728,
       "2026-08-10": 181,
       "2026-08-12": 35,
-      "2026-08-16": 10
+      "2026-08-17": 69,
+      "2026-08-16": 346
     }
   },
   {
@@ -85,14 +86,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/calibre.junknet.xyz.ico",
     "slug": "books",
     "status": "down",
-    "uptime": "86.86%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "94.02%",
-    "uptimeYear": "86.86%",
+    "uptime": "86.63%",
+    "uptimeDay": "71.57%",
+    "uptimeWeek": "86.66%",
+    "uptimeMonth": "93.10%",
+    "uptimeYear": "86.63%",
     "time": 4707,
-    "timeDay": 3523,
-    "timeWeek": 3372,
+    "timeDay": 0,
+    "timeWeek": 3365,
     "timeMonth": 3254,
     "timeYear": 4707,
     "dailyMinutesDown": {
@@ -130,7 +131,8 @@
       "2026-08-11": 728,
       "2026-08-10": 176,
       "2026-08-12": 31,
-      "2026-08-16": 5
+      "2026-08-17": 69,
+      "2026-08-16": 341
     }
   },
   {
@@ -139,14 +141,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sr-wiki.junknet.xyz.ico",
     "slug": "shadowrun-rules-wiki",
     "status": "down",
-    "uptime": "94.09%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "94.13%",
-    "uptimeYear": "94.09%",
+    "uptime": "93.84%",
+    "uptimeDay": "71.91%",
+    "uptimeWeek": "87.06%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "93.84%",
     "time": 2458,
-    "timeDay": 505,
-    "timeWeek": 1044,
+    "timeDay": 0,
+    "timeWeek": 1133,
     "timeMonth": 792,
     "timeYear": 2458,
     "dailyMinutesDown": {
@@ -178,7 +180,8 @@
       "2026-08-07": 379,
       "2026-08-11": 728,
       "2026-08-10": 171,
-      "2026-08-16": 0
+      "2026-08-17": 69,
+      "2026-08-16": 336
     }
   }
 ]
