@@ -8,6 +8,11 @@ sites:
     url: https://recipes.junknet.xyz
   - name: Books
     url: https://calibre.junknet.xyz
+    # Calibre-Web requires a login, so anonymous checks get a 401. This list
+    # REPLACES Upptime's default set rather than adding to it, so the defaults
+    # are repeated here with 401 appended.
+    expectedStatusCodes:
+      [200, 201, 202, 203, 204, 205, 206, 207, 208, 226, 300, 301, 302, 303, 304, 305, 306, 307, 308, 401]
   - name: Shadowrun rules wiki
     url: https://sr-wiki.junknet.xyz
 
